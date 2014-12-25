@@ -1,0 +1,7 @@
+add  a  new file to git respository
+in branch tutortial2
+in master
+master second time add a line
+b2tutortrial add line
+Botch,botch,botch
+nice nice
