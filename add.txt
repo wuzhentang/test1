@@ -9,3 +9,4 @@ second commit
 hello world
 fix bug 1
 fix second bug
+fix third  bug
