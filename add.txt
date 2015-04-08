@@ -7,3 +7,4 @@ Botch,botch,botch
 nice nice
 second commit
 hello world
+fix bug 1
