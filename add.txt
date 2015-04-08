@@ -8,3 +8,4 @@ nice nice
 second commit
 hello world
 fix bug 1
+fix second bug
